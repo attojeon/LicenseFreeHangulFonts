@@ -29,4 +29,4 @@
     - 쿠리런서체
     - D2Coding서체
 
-    >updated 2020.2.10
+    updated 2020.2.10
